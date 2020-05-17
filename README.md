@@ -26,7 +26,7 @@ GITHUB CODE LINK DETAILS:
 https://github.com/vasthav2k/sepsis
 
 GITHUB ID:
-1602-17-737-014-
+1602-17-737-014-lahari1402
 1602-17-737-024-Praneeth23
 1602-17-737-036-vasthav2k
 1602-17-737-055-varun359
