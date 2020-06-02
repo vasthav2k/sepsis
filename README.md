@@ -5,7 +5,7 @@ Early Prediction Of Sepsis using Clinical data
 Early Prediction of Sepsis Using Clinical Data
 Roll Numbers:
 1602-17-737-014 P.Lahari
-1602-17-737-024 G.Praneeth
+1602-17-737-024 Praneeth Gubba
 1602-17-737-036 K.Sai Sri Vasthav
 1602-17-737-055 Y.Varun Reddy
 
